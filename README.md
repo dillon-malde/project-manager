@@ -1,2 +1,2 @@
 # project-management-app
- a simple app that creates, stores and tracks projects
+ a simple react app that creates, stores and tracks projects. utilises tailwind for css
